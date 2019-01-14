@@ -1,6 +1,6 @@
-# Project Title
+# CS 490 Undergraduate Research
 
-CS 490 Undergraduate Research Peyton Puckett
+Big Data Spatial Systems
 
 ## Getting Started
 
