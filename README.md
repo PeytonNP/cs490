@@ -1,7 +1,8 @@
 # CS 490 Undergraduate Research: Big Data Spatial Systems
 
-## Timeline of Semester: https://peytonnp.github.io/cs490/
+## Timeline of Semester 
 
+https://peytonnp.github.io/cs490/
 Using GitHub Pages to host website about general progress during the course. 
 
 ## Acknowledgments & Contributions
