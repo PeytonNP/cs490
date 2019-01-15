@@ -1,9 +1,17 @@
-# CS 490 Undergraduate Research
+# CS 490 Undergraduate Research: Big Data Spatial Systems
 
-Big Data Spatial Systems
+## Timeline of Semester: https://peytonnp.github.io/cs490/
 
-## Getting Started
+Using GitHub Pages to host website about general progress during the course. 
 
-Using Gitpages to host a general website about progress during the course.
-Local Tornado Backup in another directory. (Move to another branch later)
+## Acknowledgments & Contributions
 
+* Prof. Walid G. Aref: https://www.cs.purdue.edu/homes/aref/
+* Ahmed Mahmood
+* Anas Hazim Daghistani
+
+
+## PurdueDB Repo
+```
+https://github.com/purduedb/tornadostreaming/tree/master/Tornado
+```
