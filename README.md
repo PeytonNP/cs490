@@ -10,6 +10,7 @@ Using GitHub Pages to host website about general progress during the course.
 
 * Prof. Walid G. Aref: https://www.cs.purdue.edu/homes/aref/
 * Ahmed Mahmood
+* Daniel Hu
 * Anas Hazim Daghistani
 
 
