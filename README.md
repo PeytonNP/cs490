@@ -14,7 +14,7 @@ Using GitHub Pages to host website about general progress during the course.
 * Anas Hazim Daghistani
 
 
-## PurdueDB Repo
+## PurdueDB Github
 
-https://github.com/purduedb/tornadostreaming/tree/master/Tornado
+https://github.com/purduedb/
 
