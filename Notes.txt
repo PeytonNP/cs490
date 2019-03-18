@@ -1,0 +1,42 @@
+TornadoUITopology
+
+- Updated versions from 0.8 to 1.0.1 in pom.xml
+- Had to add jars
+
+From Skype Call (notebook)
+
+Kafka Spout
+- create new spout
+- create new topology using the new kafka spout
+- has a routing layer and evaluation layer
+
+UI -> Kafka -> (tranformations) -> Tornado
+UI <-> Kafka Spout (layers) <-> Tornado <-> Kafka Producer <-> UI
+
+Need to convert to tornado object and reconvert back to original query object
+
+Examples:
+storm word count (get an idea of how storm works)
+
+
+1) we will focus on the evaluation of the simple spatio-textual range query this query has a spatial range and set of keywords
+2) Look at the examples folder you will see the tornadotweetcount example I want to create another class called  TornadoUIToplogy
+3) In this new class you will follow the same approach adopted in the tweets count example. However, you will need to use the Kafkaspout to read queries from UI 
+4) Send me bitbucket accounts and I will add you both to the version that was totally working with UI of Tornado
+
+all i want now the TornadoUIToplogy topology to do is 
+1) read sample tweets files
+2) read queries from UI in json format and convert them into the query object
+3) take the output and put it back to UI through the kafka producer 
+4) add comments 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+edu.purdue.cs.tornado.messages.Query
+
+
+temp.csv (doesn't account for comma's in individuals tweet)
+
+
+
+
