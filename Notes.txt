@@ -30,6 +30,11 @@ all i want now the TornadoUIToplogy topology to do is
 3) take the output and put it back to UI through the kafka producer 
 4) add comments 
 
+the output from tornadoevaluatorbolt and connect it to a kafka producer bolt
+then this will produce the output back to kafka.
+so far you have UI->kafka-> tornado routing--> tornado evaluator
+and you need UI->kafka-> tornado routing--> tornado evaluator->kafka producerbolt-> kafka->ui
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 edu.purdue.cs.tornado.messages.Query
@@ -38,5 +43,8 @@ edu.purdue.cs.tornado.messages.Query
 temp.csv (doesn't account for comma's in individuals tweet)
 
 
+3/25
+apply code with new api documenations
 
-
+- update kafka clients to 2.2.0 from 2.1.0
+- scala 2.12
